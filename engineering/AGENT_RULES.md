@@ -49,3 +49,12 @@ Always use design tokens.
 Always prefer composition over duplication.
 
 Think before coding.
+If two requirements conflict:
+
+1. Correctness
+2. Accessibility
+3. Performance
+4. SEO
+5. Maintainability
+6. Visual Design
+7. Developer Convenience
