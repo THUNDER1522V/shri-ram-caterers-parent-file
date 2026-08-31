@@ -30,3 +30,16 @@
 - Use animations with purpose
 - Tell authentic stories
 - Build trust before selling
+Every feature must satisfy at least one of:
+
+Improves Trust
+
+Improves Performance
+
+Improves Accessibility
+
+Improves SEO
+
+Improves Conversion
+
+Improves Maintainability
