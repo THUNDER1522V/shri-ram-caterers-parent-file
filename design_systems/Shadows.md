@@ -1,7 +1,18 @@
-Almost no shadows.
+For us:
 
-Use borders.
+Almost none.
 
-Use contrast.
+Document:
 
-Use whitespace.
+Small elevation
+Medium elevation
+Hero
+
+And write
+
+Never use heavy floating shadows.
+
+Luxury comes from spacing,
+contrast
+and typography,
+not shadows.
