@@ -1,1 +1,45 @@
+This is huge.
 
+Because we already discussed
+
+Dior
+YSL
+Apple
+
+Animation style deserves its own file.
+
+Include:
+
+Duration
+
+150
+
+250
+
+400
+
+600
+
+Curves
+
+Scroll reveals
+
+Hover
+
+Hero entrance
+
+Image reveal
+
+Navbar transition
+
+Page transition
+
+Motion reduction
+
+Rules
+
+No flashy animations.
+
+Everything should feel calm,
+expensive,
+confident.
