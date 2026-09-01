@@ -1,19 +1,30 @@
-Section Padding
+This controls the entire luxury feel.
 
-Desktop
-120px
+Include:
 
-Tablet
-96px
+Spacing Scale
+4
+8
+12
+16
+24
+32
+48
+64
+80
+96
+128
+160
 
-Mobile
-64px
+Then define:
 
-Container Width
-1280px
+Section padding desktop
+Section padding mobile
+Container width
+Grid gap
+Card spacing
+Hero spacing
 
-Grid
-12 Columns
+One rule:
 
-Gap
-32px
+White space creates luxury.
