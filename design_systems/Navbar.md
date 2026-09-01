@@ -18,3 +18,22 @@ Active link style
 Also include:
 
 Never use oversized navigation.
+
+https://www.apple.com/in/
+https://linear.app/
+https://vercel.com/
+
+References
+Apple
+Linear
+Vercel
+
+Learn from
+
+glass blur
+sticky behavior
+mobile menu
+transitions
+subtle motion
+
+We already decided we like Apple's navbar
