@@ -25,3 +25,19 @@ Rules
 Never filled icons
 Never colorful icons
 Monochrome only
+
+take Reference
+
+Lucide
+
+Feather Icons
+
+Phosphor
+
+Learn
+
+Consistency
+
+Stroke weight
+
+Minimalism
