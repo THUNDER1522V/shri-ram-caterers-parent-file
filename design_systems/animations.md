@@ -51,3 +51,23 @@ Learn
 page transitions
 smooth motion
 restraint
+
+https://linear.app/
+Learn
+
+micro interactions
+hover states
+opacity transitions
+
+https://www.framer.com/
+Learn
+
+reveal timing
+easing curves
+
+https://www.awwwards.com/
+Learn
+
+cinematic entrances
+
+NOT flashy animations.
