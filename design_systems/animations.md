@@ -43,3 +43,11 @@ No flashy animations.
 Everything should feel calm,
 expensive,
 confident.
+
+https://www.apple.com/in/
+
+Learn
+
+page transitions
+smooth motion
+restraint
