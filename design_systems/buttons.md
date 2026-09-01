@@ -1,12 +1,26 @@
-Height: 52px
-Radius: 14px
-Padding: 18px 28px
-Hover:
-- Slight lift (2px)
-- Background transition
-- Duration 250ms
-Outline style
+This shouldn't just define colors. It should define the personality of every button.
 
-Same height
+Include:
 
-Same radius
+Primary Button
+Background color
+Text color
+Height (48px or 52px)
+Horizontal padding
+Border radius (14px)
+Font (Inter Medium)
+Hover animation (200ms ease)
+Hover effect (slightly darker background + lift 2px)
+Focus state
+Disabled state
+Secondary Button
+Outline version
+Transparent version (for hero)
+Icon Buttons
+WhatsApp
+Call
+Arrow
+Motion Rules
+Never bounce
+Never overshoot
+Smooth luxury motion only
