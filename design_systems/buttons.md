@@ -24,3 +24,22 @@ Motion Rules
 Never bounce
 Never overshoot
 Smooth luxury motion only
+
+
+https://www.apple.com/in/
+https://stripe.com/in
+
+References
+Apple
+Stripe
+
+Learn from
+
+hover timing
+interaction polish
+button proportions
+accessibility
+
+Don't copy visuals.
+
+Copy interaction quality.
