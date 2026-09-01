@@ -1,9 +1,31 @@
-Cards: 24px
+Simple.
 
-Buttons: 14px
+Just define:
 
-Video: 28px
+Buttons
 
-Images: 20px
+14px
 
-Input: 14px
+Cards
+
+20px
+
+Inputs
+
+14px
+
+Gallery
+
+24px
+
+Video
+
+24px
+
+Images
+
+20px
+
+Also mention:
+
+Never mix multiple radius styles randomly.
