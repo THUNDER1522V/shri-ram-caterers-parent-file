@@ -1,6 +1,0 @@
-- 10+ years of experience
-- Specialized in weddings
-- Live counters available
-- Customized menus
-- Professional service staff
-- Hygienic food preparation
